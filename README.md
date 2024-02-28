@@ -2,6 +2,11 @@ OCTANET_FEBRUARY
 Landing Page Project
 This is a simple landing page project that demonstrates basic HTML and CSS skills. The project consists of a one-page website that serves as a landing page for a fictional website.
 
+Preview:
+
+https://abhiramrasamalla.github.io/Abhiram-Rasamalla-OCTANET_FEBRUARY-TASK-2/
+
+
 Project Structure
 index.html: The main HTML file that defines the structure and content of the landing page.
 styles.css: The CSS file that contains styles for the landing page.
