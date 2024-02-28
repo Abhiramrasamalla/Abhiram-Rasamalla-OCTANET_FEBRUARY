@@ -1,4 +1,4 @@
-# OCTANET_NOVEMBER
+# OCTANET_FEBRUARY
 # Landing Page Project
 
 This is a simple landing page project that demonstrates basic HTML and CSS skills. The project consists of a one-page website that serves as a landing page for a fictional website.
